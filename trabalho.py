@@ -40,9 +40,9 @@ livros_disponiveis = [
 
 # tupla com regras de empréstimo adicionada para exame
 regra_emprestimo = (
-    ("Professor", 5, 30),
+    ("Professor", 5, 13),
     ("Aluno", 2, 7),
-    ("Funcionario", 3, 15),
+    ("Funcionario", 3, 11),
     ("Terceirizado", 1, 7),
     ("Visitantes", 1, 7)
 )
